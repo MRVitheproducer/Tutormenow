@@ -1,4 +1,5 @@
-package com.example.jobportal.Model;
+package com.example.jobportal;
+
 
 public class Data {
     String title;
